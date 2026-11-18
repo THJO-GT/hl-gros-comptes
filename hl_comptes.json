@@ -1,0 +1,164 @@
+[
+ {
+  "adresse": "0x5b5d51203a0f9079f8aeb098a6523a13f298c060",
+  "nom": "0x5b5d…c060",
+  "rang": 1,
+  "compte_M": 212.5,
+  "gains_cumules_M": 224.8,
+  "gain_mois_M": 139.94,
+  "or": true
+ },
+ {
+  "adresse": "0xecb63caa47c7c4e77f60f1ce858cf28dc2b82b00",
+  "nom": "0xecb6…2b00",
+  "rang": 2,
+  "compte_M": 93.8,
+  "gains_cumules_M": 222.0,
+  "gain_mois_M": 27.18,
+  "or": true
+ },
+ {
+  "adresse": "0xb83de012dba672c76a7dbbbf3e459cb59d7d6e36",
+  "nom": "0xb83d…6e36",
+  "rang": 3,
+  "compte_M": 208.9,
+  "gains_cumules_M": 169.4,
+  "gain_mois_M": 114.28,
+  "or": true
+ },
+ {
+  "adresse": "0x7fdafde5cfb5465924316eced2d3715494c517d1",
+  "nom": "BobbyBigSize",
+  "rang": 4,
+  "compte_M": 47.0,
+  "gains_cumules_M": 160.0,
+  "gain_mois_M": 33.42,
+  "or": true
+ },
+ {
+  "adresse": "0xdfc24b077bc1425ad1dea75bcb6f8158e10df303",
+  "nom": "0xdfc2…f303",
+  "rang": 5,
+  "compte_M": 150.7,
+  "gains_cumules_M": 138.7,
+  "gain_mois_M": 0.54,
+  "or": false
+ },
+ {
+  "adresse": "0x880ac484a1743862989a441d6d867238c7aa311c",
+  "nom": "x.com/SilkBtc",
+  "rang": 6,
+  "compte_M": 15.7,
+  "gains_cumules_M": 120.1,
+  "gain_mois_M": 3.39,
+  "or": false
+ },
+ {
+  "adresse": "0x03b9a189e2480d1e4c3007080b29f362282130fa",
+  "nom": "0x03b9…30fa",
+  "rang": 7,
+  "compte_M": 65.7,
+  "gains_cumules_M": 81.3,
+  "gain_mois_M": 0.01,
+  "or": false
+ },
+ {
+  "adresse": "0x87f9cd15f5050a9283b8896300f7c8cf69ece2cf",
+  "nom": "0x87f9…e2cf",
+  "rang": 8,
+  "compte_M": 113.4,
+  "gains_cumules_M": 76.7,
+  "gain_mois_M": 35.03,
+  "or": false
+ },
+ {
+  "adresse": "0x0d446c3372a9ba9cddef0eef7a1afab6dc0e8c0b",
+  "nom": "0x0d44…8c0b",
+  "rang": 9,
+  "compte_M": 73.8,
+  "gains_cumules_M": 73.8,
+  "gain_mois_M": 2.18,
+  "or": false
+ },
+ {
+  "adresse": "0xd47587702a91731dc1089b5db0932cf820151a91",
+  "nom": "0xd475…1a91",
+  "rang": 10,
+  "compte_M": 18.7,
+  "gains_cumules_M": 72.2,
+  "gain_mois_M": 11.91,
+  "or": false
+ },
+ {
+  "adresse": "0x45d26f28196d226497130c4bac709d808fed4029",
+  "nom": "0x45d2…4029",
+  "rang": 11,
+  "compte_M": 63.6,
+  "gains_cumules_M": 71.5,
+  "gain_mois_M": 29.07,
+  "or": true
+ },
+ {
+  "adresse": "0x7dacca323e44f168494c779bb5e7483c468ef410",
+  "nom": "0x7dac…f410",
+  "rang": 12,
+  "compte_M": 30.9,
+  "gains_cumules_M": 64.0,
+  "gain_mois_M": 0.6,
+  "or": false
+ },
+ {
+  "adresse": "0x8e096995c3e4a3f0bc5b3ea1cba94de2aa4d70c9",
+  "nom": "憨巴小龙",
+  "rang": 13,
+  "compte_M": 1.1,
+  "gains_cumules_M": 59.5,
+  "gain_mois_M": 0.13,
+  "or": false
+ },
+ {
+  "adresse": "0x023a3d058020fb76cca98f01b3c48c8938a22355",
+  "nom": "Auros",
+  "rang": 14,
+  "compte_M": 19.8,
+  "gains_cumules_M": 57.5,
+  "gain_mois_M": 7.83,
+  "or": true
+ },
+ {
+  "adresse": "0x939f95036d2e7b6d7419ec072bf9d967352204d2",
+  "nom": "0x939f…04d2",
+  "rang": 15,
+  "compte_M": 7.9,
+  "gains_cumules_M": 51.0,
+  "gain_mois_M": 4.43,
+  "or": true
+ },
+ {
+  "adresse": "0xfc667adba8d4837586078f4fdcdc29804337ca06",
+  "nom": "0xfc66…ca06",
+  "rang": 17,
+  "compte_M": 88.2,
+  "gains_cumules_M": 47.3,
+  "gain_mois_M": 27.02,
+  "or": true
+ },
+ {
+  "adresse": "0x856c35038594767646266bc7fd68dc26480e910d",
+  "nom": "0x856c…910d",
+  "rang": 18,
+  "compte_M": 73.9,
+  "gains_cumules_M": 46.2,
+  "gain_mois_M": 2.78,
+  "or": true
+ },
+ {
+  "adresse": "0x418aa6bf98a2b2bc93779f810330d88cde488888",
+  "nom": "0x418a…8888",
+  "rang": 19,
+  "compte_M": 4.9,
+  "gains_cumules_M": 37.0,
+  "gain_mois_M": 4.5,
+  "or": true
+ }
+]
