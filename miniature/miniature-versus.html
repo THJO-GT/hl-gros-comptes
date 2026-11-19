@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="fr"><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Kaushan+Script&display=swap" rel="stylesheet">
+<style>
+  html,body{margin:0;background:#000}
+  #thumb{position:relative;width:1280px;height:720px;overflow:hidden;font-family:'Anton',sans-serif;background:#0a0018}
+  .half{position:absolute;inset:0;overflow:hidden}
+  .left{clip-path:polygon(0 0,700px 0,560px 720px,0 720px)}
+  .right{clip-path:polygon(700px 0,1280px 0,1280px 720px,560px 720px)}
+  .left img{position:absolute;height:730px;width:1247px;left:-305px;top:0;filter:contrast(1.15) saturate(1.25) brightness(1.05)}
+  .left::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(255,0,60,.0) 40%,rgba(255,0,60,.35) 100%),linear-gradient(0deg,rgba(10,0,24,.85) 0%,rgba(0,0,0,0) 35%)}
+  .right img{position:absolute;height:760px;left:-60px;top:-20px;filter:saturate(1.2)}
+  .right::after{content:"";position:absolute;inset:0;background:linear-gradient(0deg,rgba(10,0,24,.85) 0%,rgba(0,0,0,0) 35%)}
+  .split{position:absolute;inset:0}
+  .label{position:absolute;top:26px;font-family:'Bebas Neue';font-size:64px;letter-spacing:4px;padding:6px 22px 0;color:#fff;box-shadow:6px 6px 0 #0a0018}
+  .moi{left:30px;background:#e0102f;transform:rotate(-4deg)}
+  .vc{right:30px;background:#ff3d9a;transform:rotate(4deg)}
+  .vs{position:absolute;left:530px;top:200px;width:200px;height:200px;border-radius:50%;
+      background:radial-gradient(circle at 35% 30%,#fff27a,#ff9a1f 55%,#ff3d7f);border:9px solid #fff;
+      box-shadow:0 0 0 7px #0a0018,0 0 60px #ff3d9a,0 0 120px #ff9a1f;display:flex;align-items:center;justify-content:center;
+      font-size:110px;color:#fff;-webkit-text-stroke:6px #0a0018;paint-order:stroke fill;text-shadow:6px 6px 0 #0a0018;transform:rotate(-8deg)}
+  .bottom{position:absolute;right:36px;bottom:20px;text-align:right;line-height:.9}
+  .b1{font-family:'Kaushan Script';font-size:64px;color:#fff;text-shadow:0 0 16px #ff3d9a,4px 4px 0 #0a0018;transform:rotate(-3deg);margin-bottom:-6px}
+  .b2{font-size:150px;letter-spacing:3px;
+      background:linear-gradient(180deg,#fff6a8 0%,#ffb13b 40%,#ff4d8d 75%,#c13bff 100%);-webkit-background-clip:text;background-clip:text;color:transparent;
+      -webkit-text-stroke:5px #0a0018;filter:drop-shadow(7px 7px 0 #0a0018) drop-shadow(0 0 22px rgba(255,61,154,.8))}
+</style></head><body>
+<div id="thumb">
+  <div class="half left"><img src="assets/photo.png"></div>
+  <div class="half right"><img src="assets/gta6-jason-lucia-officiel.jpg"></div>
+  <svg class="split" width="1280" height="720"><line x1="700" y1="-10" x2="560" y2="730" stroke="#0a0018" stroke-width="22"/>
+    <line x1="700" y1="-10" x2="560" y2="730" stroke="#fff" stroke-width="10"/></svg>
+  <div class="label moi">MOI</div>
+  <div class="label vc">VICE CITY</div>
+  <div class="vs">VS</div>
+  <div class="bottom"><div class="b1">Mes débuts sur</div><div class="b2">GTA 6</div></div>
+</div>
+</body></html>
