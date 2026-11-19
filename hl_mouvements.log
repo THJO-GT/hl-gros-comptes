@@ -16,3 +16,10 @@
 19/11 18h02 🟢 0xecb6…2b00 (HL #2, +222.0 M$ cumulés) OUVRE BTC SHORT (vente) à 62,988.6, levier x20, 3.38 M$, liquidation 591,619
 19/11 18h02 🟢 0xecb6…2b00 (HL #2, +222.0 M$ cumulés) OUVRE OR LONG (achat) à 3,719.9, levier x3, 0.20 M$
 19/11 18h02 ➖ 0xfc66…ca06 (HL #17, +47.3 M$ cumulés) RÉDUIT BTC SHORT (vente) : 19.55 → 13.09 M$, latent +585 k$
+20/11 00h32 🔴 0xecb6…2b00 (HL #2, +222.0 M$ cumulés) FERME BTC SHORT (vente) (entrée 62,988.6, dernier latent +20 k$)
+20/11 00h32 🟢 0xecb6…2b00 (HL #2, +222.0 M$ cumulés) OUVRE BTC LONG (achat) à 62,167.8, levier x20, 8.02 M$
+20/11 00h32 ➖ BobbyBigSize (HL #4, +160.0 M$ cumulés) RÉDUIT BTC SHORT (vente) : 54.76 → 49.63 M$, latent +3,642 k$
+20/11 00h32 ➖ BobbyBigSize (HL #4, +160.0 M$ cumulés) RÉDUIT OR SHORT (vente) : 4.86 → 3.98 M$, latent +356 k$
+20/11 00h32 ➖ x.com/SilkBtc (HL #6, +120.1 M$ cumulés) RÉDUIT BTC LONG (achat) : 1.88 → 0.93 M$, latent -49 k$
+20/11 00h32 ➕ Auros (HL #14, +57.5 M$ cumulés) RENFORCE BTC LONG (achat) : 11.50 → 13.99 M$, entrée moyenne 62,747.1
+20/11 00h32 ➖ 0xfc66…ca06 (HL #17, +47.3 M$ cumulés) RÉDUIT BTC SHORT (vente) : 13.09 → 5.44 M$, latent +303 k$
