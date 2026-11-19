@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="fr"><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&display=swap" rel="stylesheet">
+<style>
+  html,body{margin:0;background:#000}
+  #thumb{position:relative;width:1280px;height:720px;overflow:hidden;font-family:'Anton',sans-serif}
+  .bg{position:absolute;width:1500px;height:844px;left:-390px;top:-95px;object-fit:cover;filter:saturate(1.15)}
+  .shade{position:absolute;inset:0;background:
+      linear-gradient(0deg,rgba(15,0,35,.95) 0%,rgba(15,0,35,.7) 20%,rgba(0,0,0,0) 42%),
+      linear-gradient(270deg,rgba(15,0,35,.75) 0%,rgba(0,0,0,0) 40%)}
+  .panel{position:absolute;right:36px;top:70px;width:610px;height:400px;transform:rotate(3deg);
+      border:10px solid #fff;outline:6px solid #12002a;box-shadow:14px 14px 0 #ff3d9a,0 20px 50px rgba(0,0,0,.7);overflow:hidden;background:#000}
+  .panel img{width:100%;height:100%;object-fit:cover;object-position:54% 50%;filter:contrast(1.12) saturate(1.2) brightness(1.05)}
+  .ep{position:absolute;top:30px;left:34px;background:#ffde00;color:#111;font-family:'Bebas Neue';font-size:48px;
+      padding:6px 22px 2px;transform:rotate(-4deg);box-shadow:6px 6px 0 #111;letter-spacing:2px}
+  .title{position:absolute;left:34px;bottom:26px;line-height:.9;transform:rotate(-3deg);transform-origin:left bottom}
+  .t1{font-size:160px;color:#ffe14d;letter-spacing:2px;-webkit-text-stroke:8px #12002a;paint-order:stroke fill;
+      text-shadow:9px 9px 0 #12002a,0 0 40px rgba(255,61,154,.9)}
+  .t2{font-family:'Bebas Neue';font-size:64px;color:#fff;letter-spacing:5px;-webkit-text-stroke:4px #12002a;paint-order:stroke fill;
+      text-shadow:5px 5px 0 #ff3d9a;margin-left:8px}
+  .day{position:absolute;right:60px;top:500px;font-family:'Bebas Neue';font-size:56px;color:#fff;letter-spacing:3px;background:#ff3d9a;padding:4px 20px 0;transform:rotate(3deg);box-shadow:6px 6px 0 #12002a}
+  .bubble{position:absolute;right:14px;top:14px;width:150px;height:150px;border-radius:50%;
+      background:radial-gradient(circle at 35% 30%,#ff5b5b,#d10000);border:8px solid #fff;box-shadow:0 0 0 6px #111,0 10px 30px rgba(0,0,0,.6);
+      display:flex;align-items:center;justify-content:center;transform:rotate(10deg);
+      font-size:46px;color:#fff;text-align:center;line-height:.95;text-shadow:3px 3px 0 #111}
+</style></head><body>
+<div id="thumb">
+  <img class="bg" src="assets/gta6-jaquette-officielle.jpg">
+  <div class="shade"></div>
+  <div class="panel"><img src="assets/photo.png"></div>
+  <div class="ep">ÉPISODE 1</div>
+  <div class="day">JOUR DE SORTIE !</div>
+  <div class="title"><div class="t1">MES DÉBUTS !</div></div>
+  <div class="bubble">C'EST<br>FOU&nbsp;!</div>
+</div>
+</body></html>
