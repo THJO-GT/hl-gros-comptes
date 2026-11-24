@@ -103,3 +103,10 @@
 23/11 15h28 ➕ BobbyBigSize (HL #4, +160.0 M$ cumulés) RENFORCE BTC SHORT (vente) : 51.32 → 59.50 M$, entrée moyenne 62,614.6
 23/11 15h28 ➖ Auros (HL #14, +57.5 M$ cumulés) RÉDUIT BTC LONG (achat) : 14.43 → 6.96 M$, latent +414 k$
 23/11 15h28 ➖ 0xfc66…ca06 (HL #17, +47.3 M$ cumulés) RÉDUIT BTC SHORT (vente) : 17.24 → 16.37 M$, latent -1,199 k$
+24/11 02h51 🟢 0xecb6…2b00 (HL #2, +222.0 M$ cumulés) OUVRE OR LONG (achat) à 3,656.0, levier x3, 0.17 M$
+24/11 02h51 🔴 0xecb6…2b00 (HL #2, +222.0 M$ cumulés) FERME BTC LONG (achat) (entrée 63,622.0, dernier latent +10 k$)
+24/11 02h51 🟢 0xecb6…2b00 (HL #2, +222.0 M$ cumulés) OUVRE BTC SHORT (vente) à 61,367.4, levier x20, 5.92 M$, liquidation 345,534
+24/11 02h51 ➖ BobbyBigSize (HL #4, +160.0 M$ cumulés) RÉDUIT OR SHORT (vente) : 5.16 → 3.74 M$, latent +198 k$
+24/11 02h51 ➕ BobbyBigSize (HL #4, +160.0 M$ cumulés) RENFORCE BTC SHORT (vente) : 59.50 → 65.14 M$, entrée moyenne 62,560.5
+24/11 02h51 ➕ Auros (HL #14, +57.5 M$ cumulés) RENFORCE BTC LONG (achat) : 6.96 → 9.47 M$, entrée moyenne 61,626.8
+24/11 02h51 ➖ 0xfc66…ca06 (HL #17, +47.3 M$ cumulés) RÉDUIT OR SHORT (vente) : 24.91 → 18.96 M$, latent +559 k$
